@@ -1,0 +1,4 @@
+app/*.js*
+*.component*.js*
+node_modules/*
+typings/*
